@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://yufanzhou142.github.io/">
-    <img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/Page-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Page" />
   </a>
   <a href="https://github.com/YuFanZhou142">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -19,14 +19,15 @@
 
 ## About Me
 
-*I am a developer focused on backend systems, low-level programming, and practical AI applications.*
+Vann is currently a 2023 undergraduate student majoring in Communication Engineering at the Xiamen University . Throughout my undergraduate studies, I was under the academic supervision of Prof. Deqing Wang. I am currently conducting remote research on Video Gen under the supervision of Prof. Yujun Cai at the University of Queensland (UQ). My current research interests include Video Gen, VLM, Agent System, and Efficient-AI.
 
-*My interests sit at the intersection of engineering depth and product thinking. I enjoy building backend services, developer tools, and systems that solve real problems.*
+My ongoing research centers on investigating object coherence and physical plausibility within generated videos. As an early-stage researcher, I remain in the learning stage, working diligently to solidify domain knowledge and explore cutting-edge research frontiers.
 
-*Right now, I am especially interested in distributed systems, systems programming, and turning frontier AI capabilities into usable products.*
+I am actively seeking Fall 2027 PhD opportunities and research collaborations — <font color="red">**please feel free to reach out!!!**</font>
 
 ✦ Email: vann.yufanzhou@gmail.com
-✦ Base: China
+
+✦ Base: Xiamen, Fujian, China
 
 ## Languages and Tools
 
