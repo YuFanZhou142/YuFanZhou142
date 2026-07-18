@@ -31,8 +31,8 @@ I am actively seeking Fall 2027 PhD opportunities and research collaborations â€
 
 ## Languages and Tools
 
-![Languages](https://skillicons.dev/icons?i=python,c,rust,go,ts&theme=dark)
-![Tools](https://skillicons.dev/icons?i=docker,git,linux,neovim&theme=dark)
+![Languages](https://skillicons.dev/icons?i=python,c&theme=dark)
+![Tools](https://skillicons.dev/icons?i=git,linux&theme=dark)
 
 ## Current Direction
 
