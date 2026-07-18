@@ -45,4 +45,4 @@ I am actively seeking Fall 2027 PhD opportunities and research collaborations â€
 
 ---
 
-*Last updated: 2026-07-17*
+*Last updated: 2026-07-18*
