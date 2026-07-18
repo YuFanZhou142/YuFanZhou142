@@ -36,11 +36,12 @@ I am actively seeking Fall 2027 PhD opportunities and research collaborations â€
 
 ## Current Direction
 
-- Building stronger backend foundations
-- Exploring systems programming and performance optimization
-- Following frontier AI progress and testing real product use cases
-- Making tools that are practical, local-first, and inspectable
-- Contributing to open source through automated agent workflows
+- Investigating object coherence and physical plausibility in Video Generation
+- Researching Vision-Language Models (VLM) and their multimodal applications
+- Exploring Agent System architectures and autonomous AI workflows
+- Working on Efficient-AI methods to reduce computational cost and improve inference speed
+- Solidifying domain knowledge and exploring cutting-edge research frontiers
+- Seeking Fall 2027 PhD opportunities and research collaborations
 
 ---
 
