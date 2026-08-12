@@ -21,11 +21,11 @@
 
 Vann is currently a 2023 undergraduate student majoring in Communication Engineering at the Xiamen University . Throughout my undergraduate studies, I was under the academic supervision of Prof. Deqing Wang. I am currently conducting remote research on Video Gen under the supervision of Prof. Yujun Cai at the University of Queensland (UQ). My current research interests include Video Gen, VLM, Agent System, and Efficient-AI.
 
-My ongoing research centers on investigating object coherence and physical plausibility within generated videos. As an early-stage researcher, I remain in the learning stage, working diligently to solidify domain knowledge and explore cutting-edge research frontiers.
+As an early-stage researcher, I remain in the learning stage, working diligently to solidify domain knowledge and explore cutting-edge research frontiers.
 
-I am actively seeking Fall 2027 PhD opportunities and research collaborations — <font color="red">**please feel free to reach out!!!**</font>
+I am actively seeking 27-fall or 28-spring PhD opportunities and research collaborations — <font color="red">**please feel free to reach out!**</font>
 
-✦ Email: vann.yufanzhou@gmail.com
+✦ Email: vann.yufanzhou@gmail.com; vann.yufanzhou@outlook.com
 
 ✦ Base: Xiamen, Fujian, China
 
