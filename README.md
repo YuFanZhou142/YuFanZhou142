@@ -35,12 +35,10 @@ I am actively seeking 27-fall or 28-spring PhD opportunities and research collab
 ## Current Direction
 
 - Investigating object coherence and physical plausibility in Video Generation
-- Researching Vision-Language Models (VLM) and their multimodal applications
+- Researching VLM and their multimodal applications
 - Exploring Agent System architectures and autonomous AI workflows
-- Working on Efficient-AI methods to reduce computational cost and improve inference speed
-- Solidifying domain knowledge and exploring cutting-edge research frontiers
 - Seeking Fall 2027 PhD opportunities and research collaborations
 
 ---
 
-*Last updated: 2026-08-12*
+*Last updated: 2026-08-20*
