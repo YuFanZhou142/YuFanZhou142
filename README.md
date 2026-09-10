@@ -41,4 +41,4 @@ I am actively seeking 27-fall or 28-spring PhD opportunities and research collab
 
 ---
 
-*Last updated: 2026-08-20*
+*Last updated: 2026-09-10*
