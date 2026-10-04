@@ -19,7 +19,7 @@
 
 ## About Me
 
-Vann is currently a 2023 undergraduate student majoring in Communication Engineering at the Xiamen University. My current research interests include Video Gen, VLM, Agent System, and Efficient-AI. As an early-stage researcher, I remain in the learning stage, working diligently to solidify domain knowledge and explore cutting-edge research frontiers.
+Vann is currently a 2023 undergraduate student majoring in Communication Engineering at the Xiamen University. My current research interests include VLM/LLM reasoning, Agent System, and Efficient-AI. As an early-stage researcher, I remain in the learning stage, working diligently to solidify domain knowledge and explore cutting-edge research frontiers.
 
 I am actively seeking 27-fall or 28-spring PhD opportunities and research collaborations — <font color="red">**please feel free to reach out!**</font>
 
@@ -41,4 +41,4 @@ I am actively seeking 27-fall or 28-spring PhD opportunities and research collab
 
 ---
 
-*Last updated: 2026-09-10*
+*Last updated: 2026-10-04*
