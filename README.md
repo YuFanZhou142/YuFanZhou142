@@ -23,7 +23,7 @@ Vann is currently a 2023 undergraduate student majoring in Communication Enginee
 
 I am actively seeking 27-fall or 28-spring PhD opportunities and research collaborations — <font color="red">**please feel free to reach out!**</font>
 
-✦ Email: vann.yufanzhou@gmail.com; vann.yufanzhou@outlook.com
+✦ Email: vann.yufanzhou@gmail.com; vannvann@stu.xmu.edu.cn
 
 ✦ Base: Xiamen, Fujian, China
 
@@ -41,4 +41,4 @@ I am actively seeking 27-fall or 28-spring PhD opportunities and research collab
 
 ---
 
-*Last updated: 2026-10-04*
+*Last updated: 2026-10-15*
