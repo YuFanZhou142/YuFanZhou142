@@ -21,7 +21,7 @@
 
 Vann is currently a 2023 undergraduate student majoring in Communication Engineering at the Xiamen University. My current research interests include VLM/LLM reasoning, Agent System, and Efficient-AI. As an early-stage researcher, I remain in the learning stage, working diligently to solidify domain knowledge and explore cutting-edge research frontiers.
 
-I am actively seeking 27-fall or 28-spring PhD opportunities and research collaborations — <font color="red">**please feel free to reach out!**</font>
+I am actively seeking research collaborations and industry intern positions — <font color="red">**please feel free to reach out!**</font>
 
 ✦ Email: vann.yufanzhou@gmail.com; vannvann@stu.xmu.edu.cn
 
@@ -37,8 +37,8 @@ I am actively seeking 27-fall or 28-spring PhD opportunities and research collab
 - Investigating object coherence and physical plausibility in Video Generation
 - Researching VLM and their multimodal applications
 - Exploring Agent System architectures and autonomous AI workflows
-- Seeking Fall 2027 PhD opportunities and research collaborations
+- Seeking Fall research collaborations
 
 ---
 
-*Last updated: 2026-10-15*
+*Last updated: 2026-11-13*
